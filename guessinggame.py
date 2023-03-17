@@ -298,7 +298,7 @@ if name == "Cris" or name == "Chris" or name == "Christopher":
 elif name == "Cristopher":
     print("(Are you...?! never mind, let's continue.)")
 else:
-    print("\nnice name\n")
+    print("\n nice name\n")
 print(f"All right, {name}, we are gonna play a game.\n"
       f"You will type in a number, and I will return a new number.\n"
       f"You will have to guess how we got from your number to my new number.\n"
